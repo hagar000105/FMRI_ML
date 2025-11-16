@@ -23,12 +23,12 @@ The project explores how machine-learning models can predict cognitive or behavi
 
 ## Technologies Used
 
-**Python**
-**Google Colab**
-**NumPy**
-**Pandas**
-**scikit-learn**
-**Matplotlib / Seaborn**
+ **Python**  
+ **Google Colab**  
+ **NumPy**  
+ **Pandas**
+ **scikit-learn**
+ **Matplotlib / Seaborn**
 
 ## Evaluation Metrics
 
