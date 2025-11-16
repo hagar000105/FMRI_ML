@@ -25,19 +25,19 @@ The project explores how machine-learning models can predict cognitive or behavi
 
  **Python**  
  **Google Colab**  
- **NumPy**  
- **Pandas**
- **scikit-learn**
- **Matplotlib / Seaborn**
+ **NumPy**   
+ **Pandas**  
+ **scikit-learn**  
+ **Matplotlib / Seaborn**  
 
 ## Evaluation Metrics
 
 The project includes several evaluation metrics such as:
 
-**Correlation Coefficient (Pearson)**
-**MAE** - Mean Absolute Error
-**RMSE** - Root Mean Squared Error
-Scatter plots comparing predictions vs. true values
+ **Correlation Coefficient (Pearson)**
+ **MAE** - Mean Absolute Error
+ **RMSE** - Root Mean Squared Error
+ Scatter plots comparing predictions vs. true values
 
 ## How to Run
 
