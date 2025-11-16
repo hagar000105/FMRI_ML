@@ -34,9 +34,9 @@ The project explores how machine-learning models can predict cognitive or behavi
 
 The project includes several evaluation metrics such as:
 
- **Correlation Coefficient (Pearson)**
- **MAE** - Mean Absolute Error
- **RMSE** - Root Mean Squared Error
+ **Correlation Coefficient (Pearson)**  
+ **MAE** - Mean Absolute Error  
+ **RMSE** - Root Mean Squared Error  
  Scatter plots comparing predictions vs. true values
 
 ## How to Run
